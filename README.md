@@ -1,8 +1,6 @@
 <h1 align="center">👨‍💻 Welcome to My GitHub! 👨‍💻</h1>
 
-<p align="center">
-  Techs that I've used at least once
-</p>
+
 
 <p align="center">
   <!-- 사용 기술 배지 -->
